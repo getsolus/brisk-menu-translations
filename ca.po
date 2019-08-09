@@ -11,8 +11,8 @@ msgstr ""
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Davidmp <medipas@gmail.com>, 2017\n"
-"Language-Team: Catalan (https://www.transifex.com/solus-project/teams/68407/ca/)\n"
-"Language: ca\n"
+"Language-Team: Catalan (Spain) (https://www.transifex.com/solus-project/teams/68407/ca_ES/)\n"
+"Language: ca_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -61,7 +61,7 @@ msgstr ""
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr "Teclegeu per cercar..."
+msgstr "Teclegeu per cercar"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
@@ -70,15 +70,15 @@ msgstr "Perdoneu, no s'ha trobat res."
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr "Acaba la sessió actual."
+msgstr "Acaba la sessió actual"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
-msgstr "Bloqueja la pantalla."
+msgstr "Bloqueja la pantalla"
 
 #: src/frontend/classic/classic-window.c:681
 msgid "Turn off the device"
-msgstr "Atura el dispositiu."
+msgstr "Atura el dispositiu"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr "_Edita els menús."
+msgstr "_Edita els menús"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
