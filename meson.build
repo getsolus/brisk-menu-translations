@@ -7,7 +7,7 @@ project(
 i18n = import('i18n')
 
 # for i in *.po; do echo "    '$i'," | sed 's/\.po//'; done
-langs = {
+langs = [
     'ar',
     'ca_ES',
     'ca',
