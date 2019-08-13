@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-13 16:07+0000\n"
+"PO-Revision-Date: 2019-08-21 15:28+0000\n"
 "Last-Translator: Evan Maddock <maddock.evan@vivaldi.net>\n"
 "Language-Team: Spanish (Mexico) <http://translate.getsol.us/projects/"
 "brisk-menu/brisk-menu-translations/es_MX/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr "Los Artículos"
+msgstr "Todos Artículos"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
