@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-13 16:07+0000\n"
+"PO-Revision-Date: 2019-08-21 15:28+0000\n"
 "Last-Translator: Geert Verheyde <geert.verheyde@gmail.com>\n"
 "Language-Team: Dutch <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/nl/>\n"
@@ -40,19 +40,19 @@ msgstr "Favorieten"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "Uit het favorieten menu verwijderen"
+msgstr "Uit het favorietenmenu verwijderen"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr "Aan het favorieten menu toevoegen"
+msgstr "Aan het favorietenmenu toevoegen"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr "Van de desktop verwijderen"
+msgstr "Van het bureaublad verwijderen"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr "Op de desktop toevoegen"
+msgstr "Op het bureaublad toevoegen"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
@@ -83,7 +83,7 @@ msgstr "Afsluiten"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -91,7 +91,7 @@ msgstr "Menu"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr "Kan de menu editor niet starten"
+msgstr "Kan de menu-editor niet starten"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
