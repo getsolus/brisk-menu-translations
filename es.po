@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-13 20:43+0000\n"
+"PO-Revision-Date: 2019-08-15 01:49+0000\n"
 "Last-Translator: Eddie Torres <veloct@gmail.com>\n"
 "Language-Team: Spanish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/es/>\n"
@@ -40,11 +40,11 @@ msgstr "Favoritos"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "Desprender del menu de favoritos"
+msgstr "Desprender del menú de favoritos"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr "Fijar al menu de favoritos"
+msgstr "Fijar al menú de favoritos"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
@@ -83,7 +83,7 @@ msgstr "Apagar el dispositivo"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Guion"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -91,7 +91,7 @@ msgstr "Menú"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Fallo a lanzar el editor de Menú"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
@@ -103,7 +103,7 @@ msgstr "_Menús de Edición"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "Acerca de"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
