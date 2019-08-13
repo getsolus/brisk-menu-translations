@@ -24,11 +24,11 @@ msgstr ""
 #: src/frontend/classic/category-button.c:115
 #: src/frontend/dash/category-button.c:111
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr ""
+msgstr "Anwendungen"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
@@ -59,24 +59,24 @@ msgstr ""
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr ""
+msgstr "Tippen um zu suchen"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr ""
+msgstr "Es wurden leider keine Ergebnisse gefunden"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr ""
+msgstr "Abmelden"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
-msgstr ""
+msgstr "Bildschirm sperren"
 
 #: src/frontend/classic/classic-window.c:681
 msgid "Turn off the device"
-msgstr ""
+msgstr "Herunterfahren"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr ""
+msgstr "_Bearbeiten des Menüs"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
@@ -104,4 +104,4 @@ msgstr ""
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr ""
+msgstr "Brisk Menü Starter"
