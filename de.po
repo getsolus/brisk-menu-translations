@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-08-14 15:35+0000\n"
-"Last-Translator: Girtablulu <flinux@vongellhorn.ch>\n"
+"Last-Translator: Dieter Schnee <ds@dieterschnee.com>\n"
 "Language-Team: German <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/de/>\n"
 "Language: de\n"
@@ -104,7 +104,7 @@ msgstr "_Bearbeiten des Menüs"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_Über"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
