@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-08-14 15:21+0000\n"
-"Last-Translator: Raphael <raphael.rechar@gmail.com>\n"
+"Last-Translator: SB <mail@cigh.de>\n"
 "Language-Team: German <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/de/>\n"
 "Language: de\n"
@@ -56,7 +56,7 @@ msgstr "Zum Desktop hinzufügen"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klassisch"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -83,7 +83,7 @@ msgstr "Herunterfahren"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -91,11 +91,11 @@ msgstr "Menü"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Laden des Startmenüeditors fehlgeschlagen"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Bitte 'menulibre' oder 'mozo' installieren, um Menüs zu editieren"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
