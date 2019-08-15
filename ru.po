@@ -3,20 +3,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Danila Avdoshkin <avdoshkin.danila@gmail.com>, 2017\n"
-"Language-Team: Russian (https://www.transifex.com/solus-project/teams/68407/ru/)\n"
+"PO-Revision-Date: 2019-08-15 09:01+0000\n"
+"Last-Translator: Dan <danrdgn@protonmail.com>\n"
+"Language-Team: Russian <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
@@ -82,7 +85,7 @@ msgstr "Выключить устройство"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "панель"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
