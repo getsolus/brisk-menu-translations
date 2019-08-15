@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-15 01:49+0000\n"
+"PO-Revision-Date: 2019-08-15 01:51+0000\n"
 "Last-Translator: Dan <danrdgn@protonmail.com>\n"
 "Language-Team: Spanish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/es/>\n"
@@ -40,7 +40,7 @@ msgstr "Favoritos"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "Desprender del menú de favoritos"
+msgstr "Desanclar del menú de favoritos"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
@@ -48,15 +48,15 @@ msgstr "Fijar al menú de favoritos"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr "Desprender del escritorio"
+msgstr "Desanclar del escritorio"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr "Fijar al escritorio"
+msgstr "Anclar al escritorio"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr "Clasico"
+msgstr "Clásico"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -95,7 +95,7 @@ msgstr "Fallo a lanzar el editor de Menú"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Por favor instale 'menulibre' o 'mozo' para editar menús"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
