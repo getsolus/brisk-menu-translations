@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-08-15 12:30+0000\n"
-"Last-Translator: Pavel Datsenko <pavel.datsenko@gmail.com>\n"
+"Last-Translator: Vladimir Shubarin <vhundef@gmail.com>\n"
 "Language-Team: Russian <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/ru/>\n"
 "Language: ru\n"
@@ -38,7 +38,7 @@ msgstr "Приложения"
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Избранное"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
