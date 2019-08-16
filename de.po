@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-08-16 15:45+0000\n"
-"Last-Translator: Girtablulu <flinux@vongellhorn.ch>\n"
+"Last-Translator: Raphael <raphael.rechar@gmail.com>\n"
 "Language-Team: German <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/de/>\n"
 "Language: de\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr "Alle Elemente"
+msgstr "Alle Einträge"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
