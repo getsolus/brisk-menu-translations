@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-16 15:47+0000\n"
-"Last-Translator: Deleted User <noreply+290@weblate.org>\n"
+"PO-Revision-Date: 2019-08-21 15:28+0000\n"
+"Last-Translator: Girtablulu <flinux@vongellhorn.ch>\n"
 "Language-Team: German <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/de/>\n"
 "Language: de\n"
@@ -83,7 +83,7 @@ msgstr "Herunterfahren"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr "Bindestrich"
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
