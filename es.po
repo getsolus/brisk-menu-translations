@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-15 01:51+0000\n"
-"Last-Translator: Eddie Torres <veloct@gmail.com>\n"
+"PO-Revision-Date: 2019-09-04 01:59+0000\n"
+"Last-Translator: Evan Maddock <maddock.evan@vivaldi.net>\n"
 "Language-Team: Spanish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/es/>\n"
 "Language: es\n"
@@ -99,7 +99,7 @@ msgstr "Por favor instale 'menulibre' o 'mozo' para editar menús"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr "_Menús de Edición"
+msgstr "Menús de Edición"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
