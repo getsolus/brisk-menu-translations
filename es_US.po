@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-08-21 18:26+0000\n"
-"Last-Translator: Evan Maddock <maddock.evan@vivaldi.net>\n"
+"Last-Translator: Oscar Fuentes <orfuentes90@gmail.com>\n"
 "Language-Team: Spanish (American) <http://translate.getsol.us/projects/"
 "brisk-menu/brisk-menu-translations/es_US/>\n"
 "Language: es_US\n"
@@ -62,12 +62,12 @@ msgstr "Clásico"
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr ""
+msgstr "Escriba para buscar"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr ""
+msgstr "Elementos no encontrado"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
@@ -91,15 +91,15 @@ msgstr "Menú"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Error al iniciar el editor de menú"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Por favor instale \"menulibre\" o \"mozo\" para editar los menus"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr ""
+msgstr "Editar Menus"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
