@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-21 15:28+0000\n"
+"PO-Revision-Date: 2019-09-04 01:59+0000\n"
 "Last-Translator: Pavel Datsenko <pavel.datsenko@gmail.com>\n"
 "Language-Team: Russian <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/ru/>\n"
@@ -98,8 +98,8 @@ msgstr "Не удалось запустить редактор меню"
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
 msgstr ""
-"Пожалуйста, установите 'menulibre' или 'mozo' для того, чтобы редактировать "
-"меню"
+"Пожалуйста, установите \"menulibre\" или \"mozo\" для того, чтобы "
+"редактировать меню"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -111,4 +111,4 @@ msgstr "_O меню"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "Лаунчер Brisk Menu"
+msgstr "Лаунчер меню Brisk"
