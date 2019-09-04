@@ -3,24 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Moriel Ever <emoriel17@yahoo.com>, 2017\n"
-"Language-Team: Hebrew (https://www.transifex.com/solus-project/teams/68407/he/)\n"
+"PO-Revision-Date: 2019-09-04 17:10+0000\n"
+"Last-Translator: Yoni Banai <ink.bug@gmail.com>\n"
+"Language-Team: Hebrew <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "כל הפריטים"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -35,27 +36,27 @@ msgstr "יישומים"
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "מועדפים"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "הסר מתפריט המועדפים"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "הצמד לתפריט המועדפים"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "הסר משולחן העבודה"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "הצמד לשולחן העבודה"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "קלאסי"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -90,11 +91,11 @@ msgstr "תפריט"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "הפעלת עורך התפריטים נכשלה"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "על מנת לערוך תפריטים, אנא התקן את 'menulibre' או 'mozo'"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -102,7 +103,7 @@ msgstr "_ערוך תפריטים"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_אודות"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
