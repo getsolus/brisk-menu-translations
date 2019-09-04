@@ -8,100 +8,103 @@ msgstr ""
 "Project-Id-Version: brisk-menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-09-04 17:10+0000\n"
+"Last-Translator: Ivan Rakilovsky <ivan.rakilovsky@gmail.com>\n"
+"Language-Team: Bulgarian <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Всички елементи"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
 #: src/frontend/dash/category-button.c:111
 msgid "All"
-msgstr ""
+msgstr "Всички"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr ""
+msgstr "Приложения"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Любими"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Премахване от менюто с любими"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Добавяне към менюто с любими"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Премахване от работния плот"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Добавяне на работния плот"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Класически"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr ""
+msgstr "Търси"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr ""
+msgstr "За съжаление, няма намерени резултати"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr ""
+msgstr "Прекратяване на текущата сесия"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
-msgstr ""
+msgstr "Заключване на екрана"
 
 #: src/frontend/classic/classic-window.c:681
 msgid "Turn off the device"
-msgstr ""
+msgstr "Изключване"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Панел"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Неуспешно стартиране на редактора на менюто"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Моля, инсталирайте „menulibre“ или „mozo“, за да редактирате менютата"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr ""
+msgstr "_Редактиране на менютата"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_Относно"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr ""
+msgstr "Стартиране на Brisk Menu"
