@@ -3,24 +3,26 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: MUHAAB SHAAM <muhaab.org@gmail.com>, 2017\n"
-"Language-Team: Arabic (https://www.transifex.com/solus-project/teams/68407/ar/)\n"
+"PO-Revision-Date: 2019-09-07 18:14+0000\n"
+"Last-Translator: Faisal almosbahi <faisal.almosbahi@gmail.com>\n"
+"Language-Team: Arabic <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "كافة العناصر"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -30,43 +32,43 @@ msgstr "الكل"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr "تطبيقات"
+msgstr "التطبيقات"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "المفضلة"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "إزالة التثبيت من قائمة المفضلة"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "تثبيت في قائمة المفضلة"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "إزالة التثبيت من سطح المكتب"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "تثبيت في سطح المكتب"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "تقليدي"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr "اكتب للبحث"
+msgstr "أكتب للبحث"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr "عذراً، لم يتم العثور على أية عناصر"
+msgstr "عذرًا، لم يتم العثور على أية عناصر"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
@@ -82,7 +84,7 @@ msgstr "أوقف تشغيل الجهاز"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "لوحة التحكم"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -90,11 +92,11 @@ msgstr "القائمة"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "فشل تشغيل محرر القوائم"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "الرجاء تثبيت 'menulibre' أو 'mozo' لتحرير القوائم"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -102,8 +104,8 @@ msgstr "تحرير القوائم"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "حول"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "تنشيط قائمة مطلق التطبيقات"
+msgstr "مشغل قائمة Brisk"
