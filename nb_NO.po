@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-06 13:02+0000\n"
-"Last-Translator: Kim Malmo <berencamlost@msn.com>\n"
+"Last-Translator: hasan eyyub danisman <hdan91@hotmail.com>\n"
 "Language-Team: Norwegian Bokmål <http://translate.getsol.us/projects/"
 "brisk-menu/brisk-menu-translations/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr "Alle oppføringer"
+msgstr "alle elementer"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
