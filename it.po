@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 19:18+0000\n"
-"Last-Translator: Fabio <fabio@redaril.me>\n"
+"Last-Translator: albino crivellin <albino.bj.crivellin@gmail.com>\n"
 "Language-Team: Italian <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/it/>\n"
 "Language: it\n"
@@ -62,7 +62,7 @@ msgstr "Classico"
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr "Digita per cercare"
+msgstr "Digita per iniziare la ricerca"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
