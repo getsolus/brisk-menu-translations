@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 21:40+0000\n"
-"Last-Translator: Abdulkadir Furkan Şanlı <abdulkadirfsanli@protonmail.com>\n"
+"Last-Translator: Yiğit Deniz <yigitdnz@gmail.com>\n"
 "Language-Team: Turkish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/tr/>\n"
 "Language: tr\n"
@@ -103,7 +103,7 @@ msgstr "_Menüyü Düzenle"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_Hakkında"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
