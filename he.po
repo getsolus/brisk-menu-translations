@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-09-04 17:10+0000\n"
+"PO-Revision-Date: 2019-09-07 19:18+0000\n"
 "Last-Translator: Yoni Banai <ink.bug@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/he/>\n"
@@ -67,11 +67,11 @@ msgstr "הקלד כדי לחפש"
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr "מחילה, לא נמצא אף פריט"
+msgstr "לצערינו לא נמצאו פריטים"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr "סיים את הפעילות"
+msgstr "סיים את המושב הנוכחי"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
