@@ -3,24 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Béla Ádám Kungazda <k.g.beci@gmail.com>, 2017\n"
-"Language-Team: Hungarian (https://www.transifex.com/solus-project/teams/68407/hu/)\n"
+"PO-Revision-Date: 2019-09-07 19:15+0000\n"
+"Last-Translator: Kósa László <kosalaszlo79@gmail.com>\n"
+"Language-Team: Hungarian <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Összes elem"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -35,11 +36,11 @@ msgstr "Alkalmazások"
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Kedvencek"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Eltávolítás a Kedvencek közül"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
@@ -47,15 +48,15 @@ msgstr ""
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Eltávolítás az Asztalról"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Kitűzés az Asztalra"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klasszikus"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -82,7 +83,7 @@ msgstr "Az eszköz kikapcsolása"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Indítósáv"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -90,11 +91,12 @@ msgstr "Menü"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "A menüszerkesztő nem indítható!"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
 msgstr ""
+"Kérjük telepítsd a \"menulibre\"-t vagy \"mozo\"-t a menük szerkesztéséhez!"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -102,7 +104,7 @@ msgstr "_Menü Szerkesztése"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "Névjegy"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
