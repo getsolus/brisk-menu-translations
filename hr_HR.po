@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 19:18+0000\n"
-"Last-Translator: Joshua Strobl <joshua@getsol.us>\n"
+"Last-Translator: Dan <danrdgn@protonmail.com>\n"
 "Language-Team: Croatian <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/hr/>\n"
 "Language: hr_HR\n"
@@ -57,7 +57,7 @@ msgstr ""
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -84,7 +84,7 @@ msgstr "Isključi uređaj"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Kontrolna ploča"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -104,7 +104,7 @@ msgstr "_Uredi izbornike"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "Zbog"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
