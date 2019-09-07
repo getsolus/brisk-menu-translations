@@ -8,32 +8,35 @@ msgstr ""
 "Project-Id-Version: brisk-menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-09-07 19:18+0000\n"
+"Last-Translator: Dan <danrdgn@protonmail.com>\n"
+"Language-Team: Korean <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "모든 아이템"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
 #: src/frontend/dash/category-button.c:111
 msgid "All"
-msgstr ""
+msgstr "모든"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr ""
+msgstr "앱"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "즐겨 찾기"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
@@ -53,7 +56,7 @@ msgstr ""
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "역사적"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -84,7 +87,7 @@ msgstr ""
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
@@ -100,7 +103,7 @@ msgstr ""
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "에 대하여"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
