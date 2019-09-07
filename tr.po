@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-09-07 21:35+0000\n"
-"Last-Translator: Abdulkadir Furkan Şanlı <abdulkadirfsanli@protonmail.com>\n"
+"PO-Revision-Date: 2019-09-07 21:36+0000\n"
+"Last-Translator: Yiğit Deniz <yigitdnz@gmail.com>\n"
 "Language-Team: Turkish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/tr/>\n"
 "Language: tr\n"
@@ -48,11 +48,11 @@ msgstr "Favoriler menüsüne ekle"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Masaüstünden kaldır"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Masaüstüne ekle"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
