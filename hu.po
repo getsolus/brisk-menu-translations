@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 19:15+0000\n"
-"Last-Translator: Kósa László <kosalaszlo79@gmail.com>\n"
+"Last-Translator: koeleskitti <koleskitti5@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/hu/>\n"
 "Language: hu\n"
@@ -44,7 +44,7 @@ msgstr "Eltávolítás a Kedvencek közül"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Hozzáadás kedvencekhez"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
