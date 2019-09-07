@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 19:18+0000\n"
-"Last-Translator: Yoni Banai <ink.bug@gmail.com>\n"
+"Last-Translator: Eddie Torres <veloct@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/he/>\n"
 "Language: he\n"
@@ -83,7 +83,7 @@ msgstr "כבה את המכשיר"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Tablero"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
