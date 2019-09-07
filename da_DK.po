@@ -3,24 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Yavuznie <y.z@live.dk>, 2017\n"
-"Language-Team: Danish (Denmark) (https://www.transifex.com/solus-project/teams/68407/da_DK/)\n"
+"PO-Revision-Date: 2019-09-07 19:18+0000\n"
+"Last-Translator: Morten J. Zölde-Fejer <mjjzf@syntaktisk.dk>\n"
+"Language-Team: Danish <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/da/>\n"
 "Language: da_DK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Alle elementer"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -35,19 +36,19 @@ msgstr "Applikationer"
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Favoritter"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Fjern fra favoritmenu"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Fastgør til favoritmenu"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Fjern fra skrivebordet"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
@@ -55,7 +56,7 @@ msgstr ""
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klassisk"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -82,7 +83,7 @@ msgstr "Sluk maskinen"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -90,19 +91,19 @@ msgstr "Menu"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Kunne ikke starte et program til at redigere menuen"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Installer 'menulibre' eller 'mozo' for at kunne redigere menuer"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr "_Rediger Menu'er"
+msgstr "_Rediger Menuer"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_Om"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
