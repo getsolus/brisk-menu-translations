@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 21:37+0000\n"
-"Last-Translator: Abdulkadir Furkan Şanlı <abdulkadirfsanli@protonmail.com>\n"
+"Last-Translator: Yiğit Deniz <yigitdnz@gmail.com>\n"
 "Language-Team: Turkish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/tr/>\n"
 "Language: tr\n"
@@ -56,7 +56,7 @@ msgstr "Masaüstüne sabitle"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -83,7 +83,7 @@ msgstr "Cihazı kapat"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -91,7 +91,7 @@ msgstr "Menü"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Menü düzenleyici başlatılamadı"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
