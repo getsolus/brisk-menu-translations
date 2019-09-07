@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-09-07 21:37+0000\n"
-"Last-Translator: Yiğit Deniz <yigitdnz@gmail.com>\n"
+"PO-Revision-Date: 2019-09-07 21:39+0000\n"
+"Last-Translator: Abdulkadir Furkan Şanlı <abdulkadirfsanli@protonmail.com>\n"
 "Language-Team: Turkish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/tr/>\n"
 "Language: tr\n"
@@ -91,7 +91,7 @@ msgstr "Menü"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr "Menü düzenleyici başlatılamadı"
+msgstr "Menü düzenleyicisi başlatılamadı"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
