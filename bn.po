@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: brisk-menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-09-07 19:10+0000\n"
-"Last-Translator: Sadat Daniel <sadatdaniel@gmail.com>\n"
+"PO-Revision-Date: 2019-09-07 19:18+0000\n"
+"Last-Translator: Joshua Strobl <joshua@getsol.us>\n"
 "Language-Team: Bengali <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/bn/>\n"
 "Language: bn\n"
@@ -21,17 +21,17 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr "সব আইটেম "
+msgstr "সব আইটেম"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
 #: src/frontend/dash/category-button.c:111
 msgid "All"
-msgstr "সবগুলো "
+msgstr "সবগুলো"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr "অ্যাপ্লিকেশনস "
+msgstr "অ্যাপ্লিকেশনস"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
@@ -40,29 +40,29 @@ msgstr "ফেভারিটস"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "ফেভারিটস মেনু থেকে রিমুভ করুন "
+msgstr "ফেভারিটস মেনু থেকে রিমুভ করুন"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr "ফেভারিটস মেনুতে যুক্ত করুন "
+msgstr "ফেভারিটস মেনুতে যুক্ত করুন"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr "ডেস্কটপ থেকে রিমুভ করুন "
+msgstr "ডেস্কটপ থেকে রিমুভ করুন"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr "ডেস্কটপে যুক্ত করুন "
+msgstr "ডেস্কটপে যুক্ত করুন"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr "ক্লাসিক "
+msgstr "ক্লাসিক"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr "টাইপ করুন সার্চ করতে "
+msgstr "টাইপ করুন সার্চ করতে"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
@@ -71,27 +71,27 @@ msgstr "সরি, কোনো আইটেম পাওয়া যায়�
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr "সেশনটি এন্ড করুন "
+msgstr "সেশনটি এন্ড করুন"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
-msgstr "স্ক্রিন লক করুন "
+msgstr "স্ক্রিন লক করুন"
 
 #: src/frontend/classic/classic-window.c:681
 msgid "Turn off the device"
-msgstr "ডিভাইসটি অফ করুন "
+msgstr "ডিভাইসটি অফ করুন"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr "ড্যাস "
+msgstr "ড্যাস"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
-msgstr "মেনু "
+msgstr "মেনু"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr "মেনু এডিটর লঞ্চ হতে ব্যর্থ হয়েছে "
+msgstr "মেনু এডিটর লঞ্চ হতে ব্যর্থ হয়েছে"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
@@ -103,8 +103,8 @@ msgstr "মেনু এডিট"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr "জানুন "
+msgstr "জানুন"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "Brisk মেনু লঞ্চ করুন "
+msgstr "Brisk মেনু লঞ্চ করুন"
