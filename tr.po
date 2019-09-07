@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-07 21:34+0000\n"
-"Last-Translator: Veysel İdris Erden <veyselerden@outlook.com>\n"
+"Last-Translator: Abdulkadir Furkan Şanlı <abdulkadirfsanli@protonmail.com>\n"
 "Language-Team: Turkish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/tr/>\n"
 "Language: tr\n"
@@ -40,7 +40,7 @@ msgstr "Favoriler"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "Favorilerden kaldır"
+msgstr "Favoriler menüsünden kaldır"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
