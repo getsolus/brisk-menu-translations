@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-09-07 19:18+0000\n"
-"Last-Translator: Eddie Torres <veloct@gmail.com>\n"
+"PO-Revision-Date: 2020-08-20 14:47+0000\n"
+"Last-Translator: Yoni Banai <ink.bug@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/he/>\n"
 "Language: he\n"
@@ -83,7 +83,7 @@ msgstr "כבה את המכשיר"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr "Tablero"
+msgstr "לוח מחונים"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -107,4 +107,4 @@ msgstr "_אודות"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "מפעיל תפריט בריסק"
+msgstr "מפעיל תפריט Brisk"
