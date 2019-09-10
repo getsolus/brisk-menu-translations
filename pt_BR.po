@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2019-09-16 03:27+0000\n"
-"Last-Translator: Marcus Vinicius Santos <m.vinicius@zoho.com>\n"
+"Last-Translator: J.Lucas <anktheraccoon@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <http://translate.getsol.us/projects/"
 "brisk-menu/brisk-menu-translations/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -52,11 +52,11 @@ msgstr "Desafixar da área de trabalho"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Fixar na área de trabalho"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Clássico"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -83,7 +83,7 @@ msgstr "Desligar o dispositivo"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Painel"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -95,7 +95,7 @@ msgstr "Falha ao iniciar o editor de menu"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Por favor instale 'menulibre' ou 'mozo' para editar menus"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -103,7 +103,7 @@ msgstr "_Editar menus"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_Sobre"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
