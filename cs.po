@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: brisk-menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-09-07 19:18+0000\n"
-"Last-Translator: Martin Bábel <M.Babel@protonmail.com>\n"
+"PO-Revision-Date: 2019-09-20 12:52+0000\n"
+"Last-Translator: Alex Durante <alexedurante@gmail.com>\n"
 "Language-Team: Czech <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/cs/>\n"
 "Language: cs\n"
@@ -21,13 +21,13 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Všechny Položky"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
 #: src/frontend/dash/category-button.c:111
 msgid "All"
-msgstr ""
+msgstr "Všechno"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
@@ -36,38 +36,38 @@ msgstr "Aplikace"
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Oblíbené"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Odepnout z nabídky oblíbených položek"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Připnout do nabídky oblíbených položek"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Odepnout z plocha"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Připnout do plocha"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr ""
+msgstr "Zadejte text hledat"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr ""
+msgstr "Promiňte, žádné položek nebyly nalezeny"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
