@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-10-04 01:02+0000\n"
-"Last-Translator: Marcus Vinicius Santos <m.vinicius@zoho.com>\n"
+"PO-Revision-Date: 2019-10-04 01:03+0000\n"
+"Last-Translator: Renan Mandelo Oliveira <renanmandelo@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <http://translate.getsol.us/projects/"
 "brisk-menu/brisk-menu-translations/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr "Todos os itens"
+msgstr "Todos os Itens"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
