@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-10-15 11:27+0000\n"
+"PO-Revision-Date: 2019-10-15 11:28+0000\n"
 "Last-Translator: René Nijhuis <siuhjinener@gmail.com>\n"
 "Language-Team: Dutch <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/nl/>\n"
@@ -62,7 +62,7 @@ msgstr "Klassiek"
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr "Type om te zoeken"
+msgstr "Typ om te zoeken"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
