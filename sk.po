@@ -3,24 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Dušan Kazik <prescott66@gmail.com>, 2017\n"
-"Language-Team: Slovak (https://www.transifex.com/solus-project/teams/68407/sk/)\n"
+"PO-Revision-Date: 2020-08-20 14:47+0000\n"
+"Last-Translator: Marek Ľach <mareklachbc@tutanota.com>\n"
+"Language-Team: Slovak <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Všetky položky"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -35,27 +36,27 @@ msgstr "Aplikácie"
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Obľúbené"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Odopni z ponuky obľúbených"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Pripni do ponuky obľúbených"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Odopni z plochy"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Pripni na plochu"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klasický"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -90,11 +91,11 @@ msgstr "Ponuka"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Nepodarilo sa spustiť úpravu ponuky"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Prosím nainštaluj  'menulibre', alebo 'mozo' pre upravovanie ponúk"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -102,7 +103,7 @@ msgstr "_Upraviť ponuky"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "_O"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
