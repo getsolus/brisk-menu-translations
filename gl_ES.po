@@ -3,24 +3,26 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Juan Banga <insertardireccion@gmail.com>, 2017\n"
-"Language-Team: Galician (Spain) (https://www.transifex.com/solus-project/teams/68407/gl_ES/)\n"
+"PO-Revision-Date: 2020-08-20 14:47+0000\n"
+"Last-Translator: Enrique Moldes <emoldes@gmail.com>\n"
+"Language-Team: Galician <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/gl/>\n"
 "Language: gl_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
+#, fuzzy
 msgid "All Items"
-msgstr ""
+msgstr "Tódolos obxectos"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -34,28 +36,34 @@ msgstr "Aplicacións"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
+#, fuzzy
 msgid "Favourites"
-msgstr ""
+msgstr "Favoritos"
 
 #: src/backend/favourites/favourites-backend.c:74
+#, fuzzy
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Quitar do menu favoritos"
 
 #: src/backend/favourites/favourites-backend.c:78
+#, fuzzy
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Engadir ó menú de favoritos"
 
 #: src/backend/favourites/favourites-desktop.c:222
+#, fuzzy
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Quitar do escritorio"
 
 #: src/backend/favourites/favourites-desktop.c:227
+#, fuzzy
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Engadir ó escritorio"
 
 #: src/frontend/classic/classic-window.c:71
+#, fuzzy
 msgid "Classic"
-msgstr ""
+msgstr "Clásico"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
@@ -81,28 +89,32 @@ msgid "Turn off the device"
 msgstr "Apagar o equipo"
 
 #: src/frontend/dash/dash-window.c:63
+#, fuzzy
 msgid "Dash"
-msgstr ""
+msgstr "Taboleiro"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
 msgstr "Menú"
 
 #: src/mate-applet/applet.c:337
+#, fuzzy
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Erro ó lanzar o editor do Menú"
 
 #: src/mate-applet/applet.c:338
+#, fuzzy
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Por favor instale 'menulibre' ou 'mozo' para editar menús"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
 msgstr "_Editar menús"
 
 #: src/mate-applet/main.c:60
+#, fuzzy
 msgid "_About"
-msgstr ""
+msgstr "Acerca de"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
