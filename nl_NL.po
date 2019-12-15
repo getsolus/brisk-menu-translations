@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-10-15 11:28+0000\n"
+"PO-Revision-Date: 2019-12-15 10:11+0000\n"
 "Last-Translator: René Nijhuis <siuhjinener@gmail.com>\n"
 "Language-Team: Dutch <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/nl/>\n"
@@ -95,7 +95,7 @@ msgstr "Kan de menu-editor niet starten"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr "Gelieve 'menulibre' of 'mozo' te installeren om de menus aan te passen"
+msgstr "Gelieve 'menulibre' of 'mozo' te installeren om de menu's aan te passen"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
