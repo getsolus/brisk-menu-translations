@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2020-08-05 07:19+0000\n"
-"Last-Translator: Szymon Scholz <quomoow@gmail.com>\n"
+"Last-Translator: Peter Kot <petervonkot@gmail.com>\n"
 "Language-Team: Polish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/pl/>\n"
 "Language: pl\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Wszystkie elementy"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -97,7 +97,7 @@ msgstr "Nie udało się załadować edytora menu"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Zainstaluj 'menulibre' lub 'mozo', aby edytować menu"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
@@ -109,4 +109,4 @@ msgstr "_O nas"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "Brisk Menu Launcher"
+msgstr "Launcher Brisk Menu"
