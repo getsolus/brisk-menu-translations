@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2020-07-10 09:56+0000\n"
-"Last-Translator: Danni Lundgren <dannilundgren@outlook.dk>\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/da/>\n"
 "Language: da_DK\n"
@@ -31,7 +31,7 @@ msgstr "Alle"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr "Applikationer"
+msgstr "Programmer"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
@@ -40,7 +40,7 @@ msgstr "Favoritter"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "Fjern fra favoritmenu"
+msgstr "Frigør fra favoritmenu"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
@@ -48,7 +48,7 @@ msgstr "Fastgør til favoritmenu"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr "Fjern fra skrivebordet"
+msgstr "Frigør fra skrivebord"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
@@ -67,11 +67,11 @@ msgstr "Skriv for at søge"
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr "Desværre, intet fundet"
+msgstr "Beklager — ingen elementer fundet"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr "Afslut nuværende session"
+msgstr "Afslut den nuværende session"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
@@ -91,15 +91,15 @@ msgstr "Menu"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr "Kunne ikke starte et program til at redigere menuen"
+msgstr "Kunne ikke starte menuredigering"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr "Installer 'menulibre' eller 'mozo' for at kunne redigere menuer"
+msgstr "Installer venligst 'menulibre' eller 'mozo' for at redigere menuer"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr "_Rediger Menuer"
+msgstr "_Rediger menuer"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
@@ -107,4 +107,4 @@ msgstr "_Om"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "Brisk Start Menu"
+msgstr "Brisk-menustarter"
