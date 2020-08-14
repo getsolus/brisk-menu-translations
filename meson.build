@@ -9,6 +9,8 @@ i18n = import('i18n')
 # for i in *.po; do echo "    '$i'," | sed 's/\.po//'; done
 langs = [
     'ar',
+    'be_Latn',
+    'be',
     'bg',
     'bn',
     'bs',
@@ -56,6 +58,7 @@ langs = [
     'sr_RS@latin',
     'sr_RS',
     'sv_SE',
+    'te',
     'tr',
     'uk',
     'vi',
