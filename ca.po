@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-21 15:28+0000\n"
+"PO-Revision-Date: 2020-09-07 13:12+0000\n"
 "Last-Translator: David M <medipas@gmail.com>\n"
 "Language-Team: Catalan <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/ca/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
@@ -67,7 +67,7 @@ msgstr "Teclegeu per fer una cerca."
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr "Perdoneu, no s'ha trobat res."
+msgstr "Disculpeu, no s'ha trobat res."
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
@@ -75,7 +75,7 @@ msgstr "Acaba la sessió actual."
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
-msgstr "Bloqueja la pantalla."
+msgstr "Bloca la pantalla."
 
 #: src/frontend/classic/classic-window.c:681
 msgid "Turn off the device"
