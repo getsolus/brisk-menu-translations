@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2019-08-21 15:28+0000\n"
+"PO-Revision-Date: 2020-11-27 18:32+0000\n"
 "Last-Translator: Evan Maddock <maddock.evan@vivaldi.net>\n"
 "Language-Team: Spanish (Mexico) <http://translate.getsol.us/projects/"
 "brisk-menu/brisk-menu-translations/es_MX/>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr "Todos Artículos"
+msgstr "Todos los Artículos"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -40,7 +40,7 @@ msgstr "Favoritos"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr "Desprender del menú de favoritos"
+msgstr "Desanclar del menú de favoritos"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
