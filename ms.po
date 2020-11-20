@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: brisk-menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2020-11-20 18:06+0000\n"
-"Last-Translator: Noor Kamaruddin <safaryna79@gmail.com>\n"
+"PO-Revision-Date: 2020-11-27 18:32+0000\n"
+"Last-Translator: Charae A/L Eh Sin <charae.ehsin@gmail.com>\n"
 "Language-Team: Malay <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/ms/>\n"
 "Language: ms\n"
@@ -83,7 +83,7 @@ msgstr "Matikan peranti"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
