@@ -8,100 +8,103 @@ msgstr ""
 "Project-Id-Version: brisk-menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-11-27 18:31+0000\n"
+"Last-Translator: Terrance Brown <terranceb@gmail.com>\n"
+"Language-Team: Afrikaans <http://translate.getsol.us/projects/brisk-menu/"
+"brisk-menu-translations/af/>\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "Alle items"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
 #: src/frontend/dash/category-button.c:111
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr ""
+msgstr "Toepassings"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "Gunstelinge"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "Ontspeld van die gunsteling-kieslys"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "Speld aan gunsteling-kieslys vas"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "Ontspeld van die werkskerm"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "Speld aan die werkskerm vas"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "Klassieke"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr ""
+msgstr "Tik om te soek"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr ""
+msgstr "Jammer, geen items gevind nie"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
-msgstr ""
+msgstr "Beëindig die huidige sessie"
 
 #: src/frontend/classic/classic-window.c:670
 msgid "Lock the screen"
-msgstr ""
+msgstr "Sluit die skerm"
 
 #: src/frontend/classic/classic-window.c:681
 msgid "Turn off the device"
-msgstr ""
+msgstr "Skakel die toestel af"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
-msgstr ""
+msgstr "Kieslys"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "Kon nie die kieslys-redakteur begin nie"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "Installeer asseblief 'menulibre' of 'mozo' om die kieslyse te wysig"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr ""
+msgstr "Wysig Kieslyse"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "Aangaande"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr ""
+msgstr "Brisk Menu Lanseerder"
