@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
-"PO-Revision-Date: 2020-11-27 18:32+0000\n"
+"PO-Revision-Date: 2021-04-19 02:42+0000\n"
 "Last-Translator: Andrian Roshandy <a.nomansky001@gmail.com>\n"
 "Language-Team: Indonesian <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/id/>\n"
@@ -95,11 +95,11 @@ msgstr "Gagal meluncurkan editor menu"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr "Mohon pasang 'menulibre' atau 'mozo' untuk mengubah menu"
+msgstr "Harap instal 'menulibre' atau 'mozo' untuk mengedit menu"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr "_Sunting Menu"
+msgstr "_Edit Menu"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
@@ -107,4 +107,4 @@ msgstr "_Tentang"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "Peluncur Brisk Menu"
+msgstr "Peluncur Menu Brisk"
