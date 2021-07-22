@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-08 11:02+0000\n"
 "PO-Revision-Date: 2021-07-22 17:42+0000\n"
-"Last-Translator: Jakub <jakubmag@outlook.com>\n"
+"Last-Translator: Kamil M <kamil.marud+solus@gmail.com>\n"
 "Language-Team: Polish <http://translate.getsol.us/projects/brisk-menu/"
 "brisk-menu-translations/pl/>\n"
 "Language: pl\n"
@@ -50,7 +50,7 @@ msgstr "Dodaj do ulubionych"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr "Odepnij od pulpitu"
+msgstr "Usuń z pulpitu"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
