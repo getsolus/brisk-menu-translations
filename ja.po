@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/backend/all-items/all-backend.c:52
 msgid "All Items"
-msgstr ""
+msgstr "すべてのアイテム"
 
 #: src/backend/all-items/all-section.c:102
 #: src/frontend/classic/category-button.c:115
@@ -30,43 +30,43 @@ msgstr "すべて"
 
 #: src/backend/apps/apps-backend.c:116
 msgid "Applications"
-msgstr ""
+msgstr "アプリケーション"
 
 #: src/backend/favourites/favourites-backend.c:56
 #: src/backend/favourites/favourites-section.c:148
 msgid "Favourites"
-msgstr ""
+msgstr "お気に入り"
 
 #: src/backend/favourites/favourites-backend.c:74
 msgid "Unpin from favourites menu"
-msgstr ""
+msgstr "お気に入りから削除"
 
 #: src/backend/favourites/favourites-backend.c:78
 msgid "Pin to favourites menu"
-msgstr ""
+msgstr "お気に入りへ追加"
 
 #: src/backend/favourites/favourites-desktop.c:222
 msgid "Unpin from desktop"
-msgstr ""
+msgstr "デスクトップから削除"
 
 #: src/backend/favourites/favourites-desktop.c:227
 msgid "Pin to desktop"
-msgstr ""
+msgstr "デスクトップへ追加"
 
 #: src/frontend/classic/classic-window.c:71
 msgid "Classic"
-msgstr ""
+msgstr "クラシック"
 
 #. Translators: This is the text shown in the "search box" with no content
 #: src/frontend/classic/classic-window.c:395
 #: src/frontend/dash/dash-window.c:358
 msgid "Type to search"
-msgstr ""
+msgstr "検索するタイプ"
 
 #. Translators: This message is shown when the search results are empty
 #: src/frontend/classic/classic-window.c:453
 msgid "Sorry, no items found"
-msgstr ""
+msgstr "アイテムが見つかりません"
 
 #: src/frontend/classic/classic-window.c:659
 msgid "End the current session"
@@ -82,7 +82,7 @@ msgstr "デバイスをオフにする"
 
 #: src/frontend/dash/dash-window.c:63
 msgid "Dash"
-msgstr ""
+msgstr "ダッシュ"
 
 #: src/mate-applet/applet.c:248
 msgid "Menu"
@@ -90,20 +90,20 @@ msgstr "メニュー"
 
 #: src/mate-applet/applet.c:337
 msgid "Failed to launch menu editor"
-msgstr ""
+msgstr "メニューエディタの起動に失敗"
 
 #: src/mate-applet/applet.c:338
 msgid "Please install 'menulibre' or 'mozo' to edit menus"
-msgstr ""
+msgstr "メニューを編集するには 'menulibre' または 'mozo' をインストールしてください"
 
 #: src/mate-applet/main.c:52
 msgid "_Edit Menus"
-msgstr ""
+msgstr "メニューの編集(_E)"
 
 #: src/mate-applet/main.c:60
 msgid "_About"
-msgstr ""
+msgstr "情報(_A)"
 
 #: src/mate-applet/main.c:92 src/mate-applet/main.c:104
 msgid "Brisk Menu Launcher"
-msgstr "Brisk Menu ランチャー"
+msgstr "Brisk メニューランチャ"
